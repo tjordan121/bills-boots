@@ -1,0 +1,34 @@
+#title {
+    color: blue;
+}
+
+header .logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+}
+
+@media only screen and (min-width: 1000px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+ 
+  #box-container {
+    background: gray;
+    display: flex;
+    height: 500px;
+
+  }
+  #manufacturing {
+    background-color: rgb(117, 124, 131);
+    width: 50%;
+    height: 100%;
+  }
+
+  #form {
+    background-color: rgb(50, 145, 182);
+    width: 50%;
+    height: 100%;
+  }
